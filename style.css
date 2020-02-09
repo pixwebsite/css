@@ -1,2 +1,13 @@
 code {color:red;background:green;font-weight:bold;}
 
+	.contact-from input {
+
+		border:2px solid #aba;
+
+		border-radius:3px;
+
+		padding:10px;
+
+		margin:5px;
+
+	}
