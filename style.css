@@ -1,1 +1,2 @@
-code {color:red;background:yellow}
+code {color:red;background:yellow;font-weight:bold;}
+code:hover {background:green;padding:20px; transition-duration:5s}
