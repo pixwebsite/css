@@ -1,0 +1,36 @@
+.isi {
+ white-space:pre-wrap;
+ }
+ 
+/*---Deskripsi file---*/
+table.setting-psp-table {
+   width:100%;
+   max-width:750px;
+   margin: 10px auto;
+}
+.setting-psp-table,.setting-psp-table td{
+ border-collapse:collapse;
+ color:#fff;
+ font-family:arial;
+ background-color:#222222;
+ background:url('https://1.bp.blogspot.com/-qnTrOEIoVE0/XFqnSUW5k3I/AAAAAAAAAHg/bYJTwzxSV7IU5G4pquDG8uCCFMu5Pg32QCLcBGAs/s1600/bg-setting.gif');
+ background-size:180px;
+ }
+.setting-psp-table .setting-list {
+  background-color:#FFFF00;
+  color:#000000;
+  Text-align:center;
+  }
+.setting-psp-table th {
+  background-color:#FF044D;
+  Text-align:center;
+  }
+.setting-psp-table tr:nth-child(odd) td {
+   background-color:#101010;
+   color:#fff;
+  }
+.setting-psp-table tr td{
+ Padding:3px}
+.setting-psp-table .g {
+ border-right: 1px solid silver;
+ }
